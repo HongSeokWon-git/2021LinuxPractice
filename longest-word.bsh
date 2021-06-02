@@ -1,4 +1,4 @@
-#!/bin.bash
+#!/bin/bash
 # longest-word : find longest string in a file
 while [ -n "$1" ]; do
 	if [ -r "$1" ]; then
